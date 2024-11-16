@@ -19,7 +19,7 @@ pip install llama-index-llms-gemini
 pip install llama-index-embeddings-gemini
 pip install llama-index-vector-stores-pinecone
 
-!pip install llama-index-llms-gemini llama-index-embeddings-gemini llama-index-vector-stores-pinecone
+pip install llama-index-llms-gemini llama-index-embeddings-gemini llama-index-vector-stores-pinecone
 
 import os
 from pinecone import Pinecone
