@@ -7,17 +7,17 @@ Original file is located at
     https://colab.research.google.com/drive/1LryKlej52B8y-dXZ7reuimaGftsk457y
 """
 
-!pip install llama-index google-generativeai pinecone-client
+pip install llama-index google-generativeai pinecone-client
 
-!pip install llama-index
+pip install llama-index
 
-!pip install google-generativeai
+pip install google-generativeai
 
-!pip install pinecone-client
+pip install pinecone-client
 
-!pip install llama-index-llms-gemini
-!pip install llama-index-embeddings-gemini
-!pip install llama-index-vector-stores-pinecone
+pip install llama-index-llms-gemini
+pip install llama-index-embeddings-gemini
+pip install llama-index-vector-stores-pinecone
 
 !pip install llama-index-llms-gemini llama-index-embeddings-gemini llama-index-vector-stores-pinecone
 
